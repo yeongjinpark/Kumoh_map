@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KumohMap</string>
+    <string name="ble_not_supported">지원하지 않는 기기</string>
+</resources>
